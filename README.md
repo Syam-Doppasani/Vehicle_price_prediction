@@ -40,7 +40,10 @@ It consists of:
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository:**
-
+```
+git clone https://github.com/Syam-Doppasani/Vehicle_price_prediction.git
+cd vehicle-price-prediction
+```
 
 
 2. **Install required packages:**
@@ -56,7 +59,7 @@ python train_model.py
 streamlit run app.py
 
 ## 📁 Project Structure
-
+```
 vehicle-price-predictor/
 ├── vehicles.csv                 # Dataset file
 ├── train_model.py              # Script to preprocess data and train model
@@ -64,7 +67,7 @@ vehicle-price-predictor/
 ├── vehicle_price_model.pkl     # Saved trained model
 ├── README.md                   # Project documentation
 └── requirements.txt            # Dependencies
-
+```
 ## 📊 Example Screenshot
 
 ![Screenshot 2025-05-28 011931](https://github.com/user-attachments/assets/692314b2-63fd-4291-a25c-92ddc6cdcd82)
