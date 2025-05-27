@@ -81,4 +81,8 @@ joblib
 Install all with:
 [requirements.txt](https://github.com/user-attachments/files/20465618/requirements.txt)
 
+# 👨‍💻 Author
+Syam Doppasani
+
+For freelance work or collaborations: syamdoppasani@gmail.com
 
